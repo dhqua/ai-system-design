@@ -1,0 +1,16 @@
+# Missing colon after if statement
+if x > 5
+    print("x is greater than 5")
+
+# Mismatched brackets
+data = [1, 2, 3)
+
+# Invalid indentation
+def my_function():
+print("hello")
+
+# Missing quotes
+message = Hello World
+
+# Invalid variable name (starts with number)
+2x = 10
